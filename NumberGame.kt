@@ -23,5 +23,5 @@ fun main(){
         println("!!! Enter Number !!!")
         main()
     }
-    println("You exited Game!!!")
+    println("!!!You exited Game!!!")
 }
